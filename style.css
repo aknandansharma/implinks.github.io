@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.head-up{
+    height: 18vh;
+    background-image:url(/img/photo7.JPG);
+    display: flex;
+    border: 10px solid black;
+    image
+}
+.main-text{
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+.header-nav{
+    /* background-color: rgb(7, 1, 14); */
+    /* padding: 10px; */
+    /* margin: 10px; */
+    
+}
+ul li{
+    display: inline;
+    padding: 10px;
+    font-size: x-large;
+}
+a{
+    display: inline;
+    color: rgb(255, 0, 0);
+}
+main{
+    height: 400vh;
+    background-color: rgba(86, 226, 43, 0.938);
+    color: brown;
+   
+}
+.pretag{
+    text-align: left;
+    color: #000;
+    font-size: x-large;
+}
+.box1{
+    height: 40vh;
+    background-color: white;
+}
+.box1{
+    height: 40vh;
+    background-color: white;
+}
+.box2{
+    height: 40vh;
+    background-color: rgb(206, 182, 182);
+}
+.box3{
+    height: 42vh;
+    background-color: white;
+}
+.box4{
+    height: 40vh;
+    background-color: rgb(206, 182, 182);
+}
+.box5{
+    height: 40vh;
+    background-color: white;
+}
+.box6{
+    height: 40vh;
+    background-color: rgb(206, 182, 182);
+}
+.box7{
+    height: 40vh;
+    background-color: white;
+}
+.box8{
+    height: 40vh;
+    background-color: rgb(206, 182, 182);
+}
+.box9{
+    height: 40vh;
+    background-color: white;
+}
+.box10{
+    height: 40vh;
+    background-color: rgb(206, 182, 182);
+}
+footer{
+    background-color: aqua;
+    text-align: center;
+    height: 20vh;
+    padding: 20px;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 300px;
+    color: red;
+}
+.photo{
+    height: 1000v;
+    
+}
